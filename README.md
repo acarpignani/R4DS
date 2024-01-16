@@ -4,13 +4,15 @@
 
 Welcome to the public repository of the enhancement class on R for Data Science offered at The Bedford Sixth Form. In this page you will find the list of all data set that are going to be used in the course, as well as useful information, and a brief note of all the topics covered in each lesson.
 
-### Aim of the course
+### Aim of this course
 
 The aim of this course is to give a thorough and opinionated introduction to R using the magnificent IDE RStudio, to show how the program excellently performs data analysis on different data sets, to introduce to the use of the meta-package **tidyverse** to perform exploratory data analysis, clean and reshape the data, and to give an introduction to machine learning algorithms using the meta-package **tidymodels**.
 
+In the second part of the course, when the students have acquired the basic syntax of R, the course will move onto an individual project in which every participant can collect suitable data and analyse the data to answer a statistical question on a topic of their choice, and write a full reproducible report to show their findings. The project may be published on RPubs and can be included in the student's portfolio, to show potential employers or to university their ability to use the software and to analyse data.
+
 ### Prerequisites to follow this course
 
-This course has basically no prerequisites, except the notions of mathematics and statistics from any GCSE Mathematics course. In particular, the learner is assumed to know the following statistical tools: *mean*, *mode*, *median*, *range*, *interquartile range*, *box-and-whiskers plot*, *histogram*, *bar chart*. Any other statistical instrument that might be useful will be briefly introduced during the course.
+This course has basically no prerequisites, except the notions of mathematics and statistics from any GCSE Mathematics course. In particular, the learner is assumed to know the following statistical tools: *mean*, *mode*, *median*, *range*, *interquartile range*, *box-and-whiskers plot*, *histogram*, *bar chart*. Any other statistical instrument that might be useful will be briefly recalled during the course.
 
 ### Install R and RStudio
 
