@@ -32,3 +32,11 @@ I am adding below some websites that you might find useful to look for data.
 4.  [The World Bank](https://data.worldbank.org/) contains a wealth of data that can be analysed.
 
 Also you may wish to check the little publications that I have made on [RPubs](https://rpubs.com/acarpignani).
+
+### Notebook of the course
+
+I have also started writing a notebook for the course, where I aim to write down what I have done in each session, so that any absentee can find what we have done and catch up. In my style, I tend to add or change a few things here and there. If you wish to have a look at the notebook, you only have to click here.
+
+[Notebook](https://acarpignani.github.io/notebook/)
+
+And hey! The notebook is fully written with R!
