@@ -21,3 +21,13 @@ This course has basically no prerequisites, except the notions of mathematics an
 In this course we will also assume that you have installed the **RStudio** IDE. This open-source, integrated desktop environment makes it possible for all R users to have a common R interface, which is greatly enhanced over the R's basic command line interface.
 
 -   Installation of RStudio is straightforward in most cases. The [RStudio web site](https://posit.co/products/open-source/rstudio/) has links to the necessary files to download.
+
+### Bibliography
+
+I am adding below some websites that you might find useful to look for data.
+
+1.  The [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) (UCI Repository) contains lots of data sets that can be used to do machine learning.
+2.  [Kaggle](https://www.kaggle.com/) is a great place to find little useful challenges to do. We shall see some of these challenges in our course, but you may always want to attempt one of them of your own. If there is a general consensus on a particular challenge, that could also be done as a team.
+3.  [The World Bank](https://data.worldbank.org/) contains a wealth of data that can be analysed.
+
+Also you may wish to check the little publications that I have made on [RPubs](https://rpubs.com/acarpignani).
