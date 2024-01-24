@@ -1,0 +1,501 @@
+industry,name,town,county,inception,employees,revenue,expenses,profit,growth
+Financial Services,Bridge Bank Financial Services,Dunstable,Central Bedfordshire,2009,52,"£459,473.67","110,000 GBP",349473.66901673377,11%
+IT Services,SecureSphere Systems,Bexleyheath,Bexley,2003,100,"£392,678.04","166,000 GBP",226678.03636053577,12%
+IT Services,Innovate Infinity Tech,Batley,Kirklees,2011,160,"£248,373.54","119,000 GBP",NA,18%
+Hospitality,Bristol Blissful Boutique,Sale,Trafford,2003,62,"£703,092.17","340,000 GBP",363092.173980549,7%
+Financial Services,Windsor Wealth Advisors,Harrogate,North Yorkshire,2004,83,"£318,788.36",NA,253788.36087184027,4%
+Constructions,Oxford Overhauls Construction Services Ltd.,Watchet,Somerset,2005,51,"£252,396.65","60,000 GBP",192396.64951106533,8%
+Hospitality,Manchester Marvelous Manor,Folkestone,Kent,2006,275,"£276,405.01","88,000 GBP",188405.01374565065,9%
+Health,Riverside Mental Health Solutions,Stocksbridge,Sheffield,2016,40,"£472,926.54","253,000 GBP",219926.5392892994,5%
+Health,Regency Dental and Surgical and Wellness Centre,New Brighton,Wirral,2020,69,"£501,372.34","66,000 GBP",435372.33537295833,10%
+IT Services,Infiniti Integration Ltd.,Bicester,Oxfordshire,2018,72,NA,NA,59353.57532929629,28%
+Financial Services,Thameside Trust Management,Pinner,Harrow,2009,38,"£243,453.19","60,000 GBP",183453.19028478116,7%
+Financial Services,Prime Pounds Financial Partners,Pyle,Bridgend,2003,34,"£608,060.05","124,000 GBP",484060.052218847,10%
+Health,Royal Dental and Wellness,Kew Green,Richmond upon Thames,2000,170,"£476,601.05","180,000 GBP",296601.04581387714,6%
+Financial Services,UK United Financial Advisors,Giffnock,East Renfrewshire,2002,76,"£423,585.90","80,000 GBP",343585.90009622276,6%
+Health,Royal Dental and Wellness,Ottery Saint Mary,Devon,2010,112,"£157,007.48","94,000 GBP",63007.4794171378,4%
+Hospitality,Windsor Whisk & Wonders,Seacroft,Leeds,2009,145,"£822,691.84","474,000 GBP",348691.8374313973,9%
+Financial Services,Crown City Capital Advisors,West Bromwich,Sandwell,2018,83,"£527,542.57","31,000 GBP",496542.56789945066,11%
+IT Services,ByteBeat IT Solutions,Bromborough,Wirral,2002,52,"£395,716.57","53,000 GBP",342716.5736956522,11%
+IT Services,UK Data Dynamics,Killamarsh,Derbyshire,2017,93,"£422,609.74","125,000 GBP",297609.74182514474,21%
+Financial Services,Bankside Bonds Management,Woodlesford,Leeds,2019,47,"£326,269.01","136,000 GBP",190269.01440694928,6%
+Financial Services,Regency Returns Financial Group,Menai Bridge,Gwynedd,2004,69,"£455,884.07","76,000 GBP",379884.07225348055,14%
+Financial Services,Thameside Trust Advisory,Little Hulton,Salford,2006,68,"£79,257.82","25,000 GBP",54257.82128702849,4%
+Constructions,Bridgeview Building and Repairs,West Bridgford,Nottinghamshire,2001,19,"£412,443.78","147,000 GBP",265443.78470862284,13%
+Constructions,Castle Construction Solutions and Repairs,Letchworth,Hertfordshire,2000,57,"£196,464.91","59,000 GBP",137464.91209371015,10%
+Retail,Thameside Trinkets Store Outlet Mall Emporium Corner Store Outlet,Bingley,Bradford,2000,463,"£195,583.90","185,000 GBP",10583.897915203124,13%
+Hospitality,Oxford Opulent Oasis,Harrow Weald,Harrow,2016,136,"£793,425.43","385,000 GBP",408425.4349209368,15%
+IT Services,Quantum Quest Technologies,Holborn,Camden,2006,39,"£221,476.94","74,000 GBP",147476.9356334582,15%
+Hospitality,Stratford Serenity Suites,Thornhill,Kirklees,2016,284,"£494,170.41","120,000 GBP",374170.4084468074,6%
+Health,Oxford Dental Surgical Studios,Folkestone,Kent,2000,48,"£546,935.46","181,000 GBP",365935.45525567606,5%
+Constructions,Oxford Overhauls Construction Services Ltd.,Ramsgate,Kent,2016,11,"£572,939.73","126,000 GBP",446939.72875596955,6%
+Hospitality,Yorkshire Yarn Yurts,Saltburn-by-the-Sea,Redcar and Cleveland,2014,256,"£649,478.59","312,000 GBP",337478.5853177309,13%
+Constructions,Pinnacle Projects Construction and Renovations Ltd.,Rugby,Warwickshire,2010,68,"£348,727.39","81,000 GBP",267727.39433217794,10%
+Constructions,Windsor Works Construction and Repairs Solutions,Westgate on Sea,Kent,2014,68,"£471,027.20","182,000 GBP",289027.2046299651,13%
+IT Services,NexusWave IT Solutions,Strood,Medway,2010,90,"£376,078.04","89,000 GBP",287078.03652854636,23%
+IT Services,SecureLink Systems,Kings Norton,Birmingham,2016,96,"£319,095.92","153,000 GBP",166095.91600950807,19%
+Health,London Lifeline Medical Hub,Dudley,Dudley,2020,84,"£535,029.17","88,000 GBP",447029.1720633395,7%
+Retail,Bridgeview Bazaar Mall Outlet Emporium,Chatham,Medway,2010,388,"£505,242.31","303,000 GBP",202242.31444532052,7%
+Financial Services,Prime Pounds Financial Group,Withernsea,East Riding of Yorkshire,2006,91,"£129,420.42","84,000 GBP",45420.42465182021,8%
+IT Services,CipherCraft Cybernetics,New Brighton,Wirral,2002,86,"£306,420.05","190,000 GBP",116420.0536464341,23%
+Hospitality,Manchester Metropolitan Manor,Saint Neots,Cambridgeshire,2010,500,"£540,164.45","424,000 GBP",116164.44807732478,13%
+Constructions,Thameside Trades Construction and Renovations Solutions,Bicester,Oxfordshire,2015,22,"£444,864.99","83,000 GBP",361864.98638940975,13%
+Financial Services,Thameside Trust Financial,Kilwinning,North Ayrshire,2004,96,"£240,004.44","94,000 GBP",146004.4392826967,6%
+Health,Castle Medical and Surgical Excellence,Basildon,Essex,2019,230,"£756,956.15","266,000 GBP",490956.1471664347,2%
+Hospitality,Newcastle Noble Nights,Coedpoeth,Wrexham,2009,218,"£610,190.52","465,000 GBP",145190.51627488807,16%
+Financial Services,Bankside Bonds Advisors,Patcham,Brighton and Hove,2005,68,"£503,390.15","148,000 GBP",355390.1467937976,6%
+IT Services,CodeCrafters UK,Cosham,Portsmouth,2006,183,"£463,518.21","40,000 GBP",423518.2069800794,16%
+Hospitality,Bristol Blissful Boutique,Lexden,Essex,2014,292,"£558,119.18","138,000 GBP",420119.17636496946,12%
+Constructions,Sovereign Structures Ltd.,Bexleyheath,Bexley,2004,24,"£399,980.17","164,000 GBP",235980.17192911357,7%
+Constructions,Capital Contractors Construction and Renovations,North Woolwich,Newham,2020,95,"£393,070.19","155,000 GBP",238070.1879807748,8%
+Retail,London Luxe Marketplace Mall Outlet Emporium Store Outlet Corner,Bispham,Blackpool,2013,376,"£255,593.66","132,000 GBP",123593.66035321727,17%
+Retail,Castle Curiosities Corner,Kirkham,Lancashire,2004,55,"£730,059.69","313,000 GBP",417059.69049828127,17%
+Hospitality,Coventry Castle Comfort,Cottingham,"Kingston upon Hull, City of",2003,84,"£527,419.51","331,000 GBP",196419.5050741546,11%
+Financial Services,Regency Returns Financial Advisors,Bexleyheath,Bexley,2004,21,"£171,893.84","26,000 GBP",145893.84173275903,10%
+Retail,Royal Retail Respite Emporium Mall Store,Dawlish,Devon,2000,422,"£738,027.46","484,000 GBP",254027.45827799663,14%
+Retail,Riverside Retail Revival,Bispham,Blackpool,2006,493,"£532,335.10","224,000 GBP",308335.09739488363,6%
+Health,Regency Dental Excellence,Brownhills,Walsall,2011,105,"£542,407.81","70,000 GBP",472407.80821535736,9%
+Health,Thameside Healthcare Hub,Oakham,Rutland,2015,225,"£480,756.72","171,000 GBP",309756.72017782927,4%
+Hospitality,Shakespearean Sleeps Sanctuary,Aldridge,Walsall,2011,324,"£642,196.23","393,000 GBP",249196.22696004808,8%
+Hospitality,Bristol Blissful Boutique,Burnley,Lancashire,2006,445,"£530,796.88","367,000 GBP",163796.88147921115,6%
+Financial Services,Capital Crest Financial Services,Stockport,Stockport,2000,59,"£337,658.04","147,000 GBP",190658.04234473035,12%
+IT Services,ByteBeat IT Solutions,Banff,Aberdeenshire,2015,186,"£320,911.54","186,000 GBP",134911.5432659164,19%
+Financial Services,Capital Crest Financial Services,Lee-on-the-Solent,Hampshire,2013,26,"£575,867.63","144,000 GBP",431867.62515688315,10%
+Hospitality,Highland Heritage Hotel,Saint Peters,Kent,2014,233,"£573,956.59","462,000 GBP",NA,5%
+Constructions,Elite Engineering and Building Solutions,North Woolwich,Newham,2004,77,NA,NA,434565.0298683904,10%
+Financial Services,Windsor Wealth Partners,Swalwell,Gateshead,2011,57,"£338,442.66","55,000 GBP",283442.658460699,4%
+Hospitality,Exeter Extraordinary Elegance,Bishop Auckland,Durham,2005,131,"£460,626.97","192,000 GBP",268626.96839496493,12%
+IT Services,Quantum Quantum Innovations,Prestwick,South Ayrshire,2018,57,"£382,519.95","99,000 GBP",283519.94534023106,30%
+Hospitality,Manchester Metropolitan Manor,Melksham,Wiltshire,2006,244,"£246,544.61","136,000 GBP",110544.60726445541,15%
+Financial Services,London Legacy Financial Advisors,Solihull,Solihull,2008,59,"£630,737.83","132,000 GBP",498737.8303636797,5%
+Retail,Sovereign Showcase Outlet Store Mall Emporium Corner Outlet,Penwortham,Lancashire,2011,240,"£474,684.78","230,000 GBP",244684.77755319327,7%
+IT Services,EliteElements IT Services,Walthamstow,Waltham Forest,2014,51,"£237,308.68","34,000 GBP",203308.68338234723,11%
+Retail,Pinnacle Plaza Emporium Store Outlet Mall Emporium Outlet,Leyton,Waltham Forest,2012,164,"£589,768.45","480,000 GBP",109768.4536757879,12%
+IT Services,EliteElements IT Services,Lee-on-the-Solent,Hampshire,2003,94,"£493,459.15","152,000 GBP",341459.15122004226,19%
+Retail,Thameside Trinkets Store Outlet Mall Emporium Corner Store,Whetstone,Leicestershire,2002,244,"£956,135.54","461,000 GBP",495135.54357690737,11%
+Retail,City Chic Retail Outlet Store Mall Emporium,Allington,Kent,2013,457,"£612,603.88","405,000 GBP",207603.87628804892,8%
+IT Services,SecureSphere Systems,Harborne,NA,2012,113,"£483,898.90","55,000 GBP",428898.9012152888,26%
+Constructions,Oxford Overhauls Construction and Repairs,Linlithgow,West Lothian,2018,47,"£338,820.14","162,000 GBP",176820.14006422833,10%
+Health,Pinnacle Private Surgical and Medical and Wellness Studios,Hadleigh,Essex,2003,40,"£564,739.24","113,000 GBP",451739.239776507,4%
+Health,Riverside Mental Excellence,Seaton,Devon,2012,221,"£652,251.48","300,000 GBP",352251.4787199907,3%
+Financial Services,Westminster Wealth Partners,Abbots Langley,Hertfordshire,2006,16,"£375,026.13","122,000 GBP",253026.12612722442,6%
+Hospitality,Oxford Opulent Oasis,Brislington,"Bristol, City of",2015,147,"£596,994.63","402,000 GBP",194994.62738865986,20%
+Financial Services,Windsor Wealth Advisors,Pendlebury,Salford,2018,66,"£498,166.61","65,000 GBP",433166.61135759205,3%
+Health,Elite Dental Surgical and Wellness Centre,Royal Tunbridge Wells,Kent,2005,65,"£147,449.83","110,000 GBP",37449.83320822939,3%
+Financial Services,Bankside Bonds Management,Wednesfield,Wolverhampton,2009,21,"£351,031.90","128,000 GBP",223031.89703496173,4%
+Health,Thameside Wellness Surgical Studios,Wilnecote,Staffordshire,2007,92,"£305,370.99","151,000 GBP",154370.99047703668,7%
+IT Services,Quantum Quest Technologies,Bailleston,Glasgow City,2004,25,"£640,730.77","159,000 GBP",481730.7742475532,12%
+Financial Services,Bankside Bonds Advisors,Eltham,Greenwich,2008,56,"£275,291.45","63,000 GBP",212291.4485516958,8%
+Financial Services,Capital Crest Financial,Longbridge,Birmingham,2005,58,"£338,484.25","91,000 GBP",247484.25317928195,13%
+IT Services,ByteBridge IT Solutions,Sheldon,Solihull,2020,136,"£437,393.72","64,000 GBP",373393.721843604,12%
+Health,Britannia Healthcare Surgical and Wellness Excellence,Caversham,Reading,2004,40,"£334,891.04","99,000 GBP",235891.03928068653,3%
+IT Services,SecureSphere Systems,Caversham,Reading,2001,128,"£447,659.30","172,000 GBP",275659.30103650317,13%
+Hospitality,Windsor Whisk & Wonders,Surbiton,Kingston upon Thames,2006,62,"£436,093.11","331,000 GBP",105093.10777531937,17%
+Health,City Dental & Wellness Centre,Stratton Saint Margaret,Swindon,2007,103,"£536,602.48","145,000 GBP",391602.47611580417,5%
+Constructions,Elite Engineering and Building Ltd.,Little Hulton,Salford,2016,14,"£203,037.71","135,000 GBP",68037.70917933434,8%
+Constructions,Windsor Works Construction and Repairs Solutions,Maldon,Essex,2020,79,"£124,330.77","45,000 GBP",79330.7658447884,5%
+Retail,Windsor Wonders Emporium Outlet Mall Store Corner,Sutton,Sutton,2007,214,"£574,141.96","122,000 GBP",452141.9639745727,6%
+Constructions,Westminster Works Construction and Renovations Ltd.,Stranraer,Dumfries and Galloway,2004,59,"£566,375.09","193,000 GBP",373375.09440025315,12%
+Health,Riverside Mental Wellness Centre,Haslingden,Lancashire,2009,125,"£611,994.20","282,000 GBP",329994.2018161528,7%
+Hospitality,Yorkshire Yarn Yurts,Edmonton,Enfield,2012,383,"£175,554.35","126,000 GBP",49554.3497428298,20%
+IT Services,NexusWave IT Solutions,Harrow Weald,Harrow,2015,80,NA,NA,215810.62043784186,19%
+Retail,Britannia Boutique,Barnstaple,Devon,2006,481,"£494,354.13","101,000 GBP",393354.1339240037,11%
+Constructions,Castle Construction Solutions and Repairs,Altrincham,Trafford,2005,25,"£152,194.13","75,000 GBP",77194.13087237626,8%
+Health,Castle Medical and Surgical Excellence,Ossett,Wakefield,2009,111,"£493,863.61","285,000 GBP",208863.61176380888,8%
+Financial Services,Thameside Trust Financial,Nuneaton,Warwickshire,2006,22,"£246,235.74","30,000 GBP",216235.73786346242,15%
+Constructions,Capital Contractors Construction and Repairs Ltd.,Tayport,Fife,2019,10,"£569,730.86","135,000 GBP",434730.8645863086,8%
+Retail,Capital Collection Emporium Store Outlet Mall Emporium Outlet Store,Airdrie,North Lanarkshire,2020,466,"£761,139.04","402,000 GBP",359139.04109969735,9%
+Hospitality,Bath Boutique Beds,Connahs Quay,Flintshire,2009,244,"£361,231.01","272,000 GBP",89231.00601416081,11%
+Health,Castle Dental Care,Neath,Neath Port Talbot,2020,160,"£523,398.02","120,000 GBP",403398.0219671503,7%
+Constructions,Oxford Overhauls Construction Services Ltd.,Haydock,St. Helens,2013,14,"£291,919.53","100,000 GBP",191919.52540539205,10%
+Health,Capital Surgical and Wellness,Bingley,Bradford,2013,225,"£355,812.43","66,000 GBP",289812.4296194874,6%
+Constructions,Bridgeview Building Solutions,Kidlington,Oxfordshire,2005,36,"£200,842.00","125,000 GBP",75841.99552424252,5%
+Retail,Riverside Retail Revival Mall Emporium Outlet Store Corner,Newquay,Cornwall,2002,93,"£544,415.42","379,000 GBP",165415.42335646227,18%
+Retail,Sovereign Showcase Outlet Store Mall Emporium Corner Outlet,Acomb,York,2014,484,"£856,506.04","467,000 GBP",389506.04266952723,6%
+Constructions,Britannia Builders and Renovations Services Ltd.,Wigston Magna,Leicestershire,2016,39,"£403,443.29","66,000 GBP",337443.2902177796,14%
+Hospitality,York Yesteryear Inn,Falkirk,Falkirk,2001,166,"£941,212.42","492,000 GBP",449212.4172858894,12%
+Retail,Elite Emporium Emporium Mall Outlet Store Corner Outlet,Saint Peters,Kent,2000,477,"£359,033.04","87,000 GBP",272033.0361253582,10%
+Financial Services,Capital Crest Financial Group,Hebburn,South Tyneside,2017,53,"£200,788.51","104,000 GBP",96788.50845433772,10%
+IT Services,CipherSphere Cybernetics,Sheldon,Solihull,2003,173,"£234,779.07","156,000 GBP",78779.0725263767,21%
+Hospitality,Peak Peaks Inn,Pinner,Harrow,2006,374,"£886,473.43","444,000 GBP",442473.43122493476,17%
+Health,Castle Dental Surgical Solutions,Partick,Glasgow City,2010,137,"£394,358.59","259,000 GBP",135358.58810180798,3%
+Constructions,Westminster Works Construction and Renovations Ltd.,Ruislip,Hillingdon,2018,45,"£459,826.14","114,000 GBP",345826.14011131227,9%
+Constructions,Westminster Works Construction and Renovations Ltd.,Cam,Gloucestershire,2005,76,"£367,705.63","102,000 GBP",265705.63117973506,13%
+Hospitality,Bath Blissful Boutique,Wood Green,Haringey,2011,420,"£607,832.98","159,000 GBP",448832.98121392727,14%
+Health,Royal Dental and Wellness,Frome,Somerset,2000,108,"£609,091.03","264,000 GBP",345091.03457443416,6%
+IT Services,CyberNet Systems UK,London,"London, City of",2012,91,"£375,284.51","119,000 GBP",256284.51220924035,25%
+Hospitality,Yorkshire Yarn Yurts,Blunsdon Saint Andrew,Swindon,2014,207,"£362,589.48","132,000 GBP",230589.48435587808,6%
+Hospitality,Scottish Splendor Suites,Bonnyrigg,Midlothian,2005,281,"£685,027.32","327,000 GBP",358027.3177823983,9%
+IT Services,NexusWave IT Solutions,Andover,Hampshire,2001,137,"£245,434.01","157,000 GBP",88434.00986865163,24%
+Financial Services,Bankside Bonds Management,Acomb,York,2003,78,"£159,220.06","120,000 GBP",39220.05536966026,4%
+IT Services,Quantum Quantum Innovations,Snaresbrook,Redbridge,2002,133,"£273,481.21","33,000 GBP",240481.20804363862,15%
+Health,Elite Dental Wellness Centre,Airdrie,North Lanarkshire,2020,132,"£220,946.46","189,000 GBP",31946.46109128371,4%
+Constructions,Britannia Building Services,Sundon,Luton,2010,40,"£301,765.77","128,000 GBP",173765.77134244144,5%
+Constructions,Regency Rebuilds Ltd.,Ramsgate,Kent,2002,100,"£429,672.02","199,000 GBP",230672.02209029347,14%
+Financial Services,Crown City Capital Consultants,Wellington,Telford and Wrekin,2004,29,"£204,362.22","86,000 GBP",118362.22410667688,12%
+Retail,City Chic Retail Outlet Store Mall Emporium,East Kilbride,South Lanarkshire,2003,154,"£696,875.69","348,000 GBP",348875.6917370483,8%
+Hospitality,Scottish Splendor Suites,Hayes,Hillingdon,2008,316,"£467,344.02","163,000 GBP",304344.0156360157,20%
+IT Services,CodeCrafters UK,Kinghorn,Fife,2006,144,"£408,706.77","30,000 GBP",378706.76886755973,22%
+Health,Royal Dental Suites,Crosby,Sefton,2007,299,"£583,532.35","288,000 GBP",295532.35395113006,8%
+Financial Services,Elite Equity Management,Luton,Luton,2011,30,"£487,789.97","65,000 GBP",422789.9670857005,8%
+Hospitality,Oxford Opulent Oasis,Giffnock,East Renfrewshire,2016,67,"£547,374.44","250,000 GBP",297374.44043625146,13%
+IT Services,CodeCore UK,Liskeard,Cornwall,2003,106,"£535,809.16","181,000 GBP",NA,15%
+Retail,Oxford Opulence Outlet Mall Emporium Store Corner Outlet,Merthyr Tudful,Merthyr Tydfil,2015,437,"£708,148.75","419,000 GBP",289148.7467754632,11%
+Retail,Capital Collection Emporium Store Outlet Mall Emporium Outlet Store,Sedgley,Dudley,2001,483,"£904,520.72","484,000 GBP",420520.72478225455,13%
+Health,Riverside Mental and Surgical and Medical Wellness,Bare,Lancashire,2006,50,"£380,706.76","102,000 GBP",278706.75574289635,4%
+Retail,Riverside Retail Revival Mall,Stepney,Tower Hamlets,2009,135,"£363,699.10","126,000 GBP",237699.09566268325,12%
+Hospitality,Exeter Exquisite Escapes,Saint Peters,Kent,2008,186,"£729,238.57","491,000 GBP",238238.57493931428,13%
+Constructions,Castle Construction Solutions,Walkden,Salford,2001,74,"£426,090.11","129,000 GBP",297090.10866936296,11%
+Health,Britannia Healthcare Excellence,Southbourne,NA,2018,47,"£352,903.72","299,000 GBP",53903.72165944427,9%
+Health,London Lifeline Pharmacy,Farnworth,Bolton,2018,45,"£520,282.86","233,000 GBP",287282.8619671054,10%
+IT Services,Quantum Quest Technologies,Cudworth,Barnsley,2013,119,"£440,991.48","58,000 GBP",382991.48162594065,30%
+Health,Regency Dental Excellence,Uxbridge,Hillingdon,2017,229,"£433,438.92","73,000 GBP",360438.92128625885,2%
+Retail,Bridgeview Bazaar Mall,Solihull,Solihull,2000,188,"£199,726.23","89,000 GBP",110726.22512234375,11%
+Constructions,Westminster Works Ltd.,Kirkby,Knowsley,2008,73,"£608,680.03","171,000 GBP",437680.03036268055,6%
+IT Services,DataDynamic Tech Services,Arbroath,Angus,2015,47,"£156,727.69","49,000 GBP",107727.69446484745,22%
+Retail,Castle Curiosities Corner Emporium Store Outlet Mall Outlet,Devizes,Wiltshire,2012,293,"£372,829.10","180,000 GBP",192829.09771194682,13%
+IT Services,Innovate Infinity Tech,Chelmsford,Essex,2019,58,"£538,200.52","45,000 GBP",493200.51507791504,29%
+Health,Riverside Mental Wellness Centre,Edmonton,Enfield,2006,31,"£277,321.81","63,000 GBP",214321.81067066267,2%
+Retail,Pinnacle Plaza Emporium Store Outlet Mall Emporium Outlet,Leavesden Green,Hertfordshire,2010,317,"£631,241.84","408,000 GBP",223241.83505494148,13%
+Health,City Dental & Surgical and Wellness,Wealdstone,Brent,2004,218,"£277,688.38","84,000 GBP",193688.38468333706,6%
+IT Services,DataDynamo Tech Services,Sundon,Luton,2016,150,"£235,642.68","46,000 GBP",189642.68011506647,18%
+Hospitality,Manchester Metropolitan Manor,Frampton Cotterell,South Gloucestershire,2014,479,"£314,963.91","280,000 GBP",34963.910456281155,14%
+IT Services,Elite Echo IT Services,Uxbridge,Hillingdon,2007,167,"£287,148.19","128,000 GBP",159148.18721823394,19%
+Retail,Windsor Wonders Emporium Outlet,Bournemouth,NA,2020,142,"£389,402.26","243,000 GBP",146402.25956449285,14%
+Financial Services,Bankside Bonds Advisors,Coventry,Coventry,2011,41,"£436,111.74","147,000 GBP",289111.74002802,12%
+IT Services,NexusWave IT Solutions,Kippax,Leeds,2019,176,"£521,856.07","100,000 GBP",421856.07427963987,10%
+Retail,Pinnacle Plaza Emporium Store Outlet Mall Emporium Outlet Store,Stainton,Middlesbrough,2016,454,"£365,400.50","236,000 GBP",129400.49845492467,12%
+Retail,Oxford Opulence Outlet Mall Emporium Store Corner,Kensington,Kensington and Chelsea,2013,240,"£626,940.02","288,000 GBP",338940.01545617357,10%
+IT Services,NexusNova IT Solutions,Fazakerley,Liverpool,2000,177,"£214,884.54","180,000 GBP",34884.53567028046,24%
+Health,Crown Dental Surgical and Wellness Centre,Wilnecote,Staffordshire,2009,203,"£653,421.74","262,000 GBP",391421.73672793433,2%
+IT Services,Quantum Quasar Technologies,Leicester,Leicester,2000,61,"£580,836.96","86,000 GBP",494836.95595292374,23%
+Hospitality,Scottish Splendor Suites,Leek,Staffordshire,2001,325,"£584,253.83","237,000 GBP",347253.83437704295,17%
+Constructions,Elite Engineering and Building Solutions Ltd.,Bonnyrigg,Midlothian,2016,47,"£556,002.98","142,000 GBP",414002.9832208529,5%
+Retail,Windsor Wonders Emporium Outlet Mall Store Corner,Ormesby,Middlesbrough,2011,50,"£675,042.39","464,000 GBP",211042.3858021386,12%
+Health,Oxford Dental Studios,Ilford,Redbridge,2019,93,"£350,243.45",NA,54243.45100065693,9%
+Retail,Britannia Boutique Outlet Mall Store Emporium Corner Outlet,Lexden,Essex,2015,245,"£75,043.71","63,000 GBP",12043.712467420846,12%
+Hospitality,Brighton Boutique Bliss,Stanmore,Harrow,2011,203,"£364,698.34","332,000 GBP",32698.3425533399,12%
+IT Services,Infiniti Innovate Ltd.,Huntington,Staffordshire,2006,75,"£534,541.87","147,000 GBP",387541.87212558463,29%
+Retail,Royal Retail Respite Emporium Mall Store Corner Outlet,Wallingford,Oxfordshire,2016,300,"£521,225.33","220,000 GBP",301225.3315001726,5%
+Health,Windsor Women's Medical Wellness,Carlisle,Cumbria,2005,107,"£631,108.92","193,000 GBP",438108.919961378,5%
+IT Services,Apex Algorithmic Solutions,Old Kilpatrick,West Dunbartonshire,2019,118,"£388,300.36","40,000 GBP",348300.36209896207,18%
+Hospitality,Windsor Whisk & Wonders,Wickersley,Rotherham,2004,132,"£357,958.56","219,000 GBP",138958.56382790953,15%
+Retail,Riverside Retail Revival Mall Emporium Outlet Store Corner Outlet,Gateshead,Gateshead,2019,219,"£436,352.69","176,000 GBP",260352.68952371553,11%
+Financial Services,London Legacy Financial Partners,Caversham,Reading,2015,10,"£516,879.18","93,000 GBP",NA,3%
+Constructions,Riverside Renovations and Repairs Ltd.,Lexden,NA,2013,45,"£275,828.97","59,000 GBP",216828.96946556866,7%
+Retail,Capital Collection Emporium Store Outlet Mall,Palmers Green,Enfield,2016,119,"£568,508.41","198,000 GBP",370508.40623443946,10%
+Hospitality,Canterbury Castle Cuisine,Perry Barr,Birmingham,2018,422,"£462,878.35","400,000 GBP",62878.3456934616,11%
+IT Services,NetQuest IT Innovations,Handforth,Cheshire East,2018,184,"£570,150.77","167,000 GBP",403150.7696211338,18%
+IT Services,CipherScape Cybersecurity,Coalville,Leicestershire,2009,159,"£260,287.00","159,000 GBP",101286.99540859088,26%
+Constructions,Bridgeview Building and Repairs Ltd.,Bottesford,North Lincolnshire,2010,96,"£521,116.32","187,000 GBP",334116.3163911551,8%
+Health,Riverside Mental Health Solutions,Basildon,Essex,2017,118,"£275,282.35","151,000 GBP",124282.34993014485,8%
+Retail,Royal Retail Respite Emporium Mall Store,Harlescott,Shropshire,2009,395,"£625,984.70","432,000 GBP",193984.70380110666,6%
+Health,Oxford Wellness Surgical Studios,Ilkeston,Derbyshire,2000,66,"£308,803.12","235,000 GBP",73803.12114488333,5%
+Constructions,Pinnacle Projects Construction Services,High Blantyre,South Lanarkshire,2013,54,"£500,978.20","192,000 GBP",308978.20475976914,5%
+Constructions,Pinnacle Projects Construction and Renovations,Bournville,Birmingham,2013,76,"£326,016.43","178,000 GBP",148016.42791600898,11%
+Retail,Royal Retail Respite Emporium Mall Store,Stanmore,Harrow,2011,117,"£327,224.22","199,000 GBP",128224.21557735652,14%
+Hospitality,Eden Valley Elegance,Childwall,Liverpool,2012,139,"£288,866.53","264,000 GBP",24866.531346924603,5%
+Constructions,Regency Rebuilds Construction,Rainham,Medway,2001,31,"£401,487.27","176,000 GBP",225487.26762644947,14%
+Financial Services,City Centric Capital Investments,Dover,Kent,2008,19,"£137,054.27","100,000 GBP",37054.27070846781,9%
+Health,Pinnacle Private Surgical and Medical and Wellness Studios,Hebburn,South Tyneside,2016,183,"£232,190.83","73,000 GBP",159190.8250725828,6%
+Health,Pinnacle Private Surgical and Wellness,Southgate,Enfield,2018,152,"£241,920.38","202,000 GBP",39920.376003719866,6%
+Health,Crown Mental Health Clinic,Deysbrook,Liverpool,2002,169,"£438,166.29","141,000 GBP",297166.29301197827,10%
+IT Services,CipherSphere Cybernetics,Bridlington,East Riding of Yorkshire,2017,189,"£387,064.17","176,000 GBP",211064.17026137933,20%
+Constructions,Windsor Works Construction and Repairs Solutions,Ryhope,Sunderland,2007,63,"£423,253.32","50,000 GBP",373253.3189468086,6%
+IT Services,Infiniti Innovate Ltd.,Salford,Salford,2015,186,"£130,749.34","57,000 GBP",73749.33801591396,13%
+Financial Services,Financial Focus Financial,Old Kilpatrick,West Dunbartonshire,2018,48,"£135,154.85","89,000 GBP",46154.85182730481,13%
+Health,Castle Medical Hub,Clackmannan,Clackmannanshire,2011,206,"£264,125.93","139,000 GBP",125125.93270977959,8%
+Hospitality,Scottish Splendor Suites,Plumstead,Greenwich,2002,342,"£722,896.62","341,000 GBP",381896.6175173409,10%
+Constructions,Westminster Works Construction Solutions,Wellington,Somerset,2010,99,"£377,719.09","144,000 GBP",233719.08844448626,6%
+Health,City Dental & Wellness,Bispham,Blackpool,2001,178,"£576,206.56","153,000 GBP",NA,6%
+Health,Pinnacle Private Surgical and Wellness,Basildon,Essex,2019,158,"£640,780.86","247,000 GBP",393780.86009062827,4%
+Constructions,Elite Engineering and Building Solutions Ltd.,Belgrave,Leicester,2018,33,"£214,878.83","61,000 GBP",153878.82696464658,14%
+Retail,Oxford Opulence Outlet Mall Emporium Store Corner Outlet,Blackwood,Caerphilly,2000,132,"£714,508.70","251,000 GBP",463508.7012290023,8%
+Health,Britannia Healthcare Surgical and Wellness Excellence,Linslade,Central Bedfordshire,2012,223,"£251,972.84","216,000 GBP",35972.8410304524,5%
+Hospitality,Edinburgh Elegance Escapes,North Woolwich,Newham,2006,490,"£226,867.09","168,000 GBP",58867.086961399764,11%
+IT Services,Innovate Insight Tech,Bare,Lancashire,2013,63,"£466,709.27","94,000 GBP",372709.2709415592,26%
+Health,Pinnacle Private Wellness Centre,Cleethorpes,North East Lincolnshire,2005,84,"£647,977.59","201,000 GBP",446977.5932095945,8%
+Retail,London Luxe Marketplace Mall Outlet Emporium Store Outlet Corner,Chaddesden,Derby,2011,260,"£722,342.52","314,000 GBP",408342.5218402408,9%
+Hospitality,Brighton Boutique Bliss,Chester,Cheshire West and Chester,2016,73,"£395,785.50","67,000 GBP",328785.49666376784,16%
+Health,Riverside Mental and Surgical and Medical Wellness,Highcliffe,Dorset,2000,88,"£571,158.26","243,000 GBP",328158.2584604621,10%
+Financial Services,Bankside Bonds & Investments,Saint Albans,Hertfordshire,2000,31,"£549,156.56","145,000 GBP",404156.55709803104,12%
+Retail,Thameside Trinkets Store Outlet Mall Emporium Corner Store Outlet,Cosham,Portsmouth,2016,234,"£679,357.56","252,000 GBP",427357.55540430546,14%
+Retail,Castle Curiosities Corner,Friern Barnet,Barnet,2008,458,"£396,057.62","186,000 GBP",210057.6171465218,10%
+Health,Regency Dental Wellness Centre,Birmingham,Birmingham,2004,228,"£384,361.04","93,000 GBP",291361.04174656793,3%
+Hospitality,Exeter Exquisite Escapes,Newbold,Derbyshire,2006,74,"£299,394.61","223,000 GBP",76394.60792765021,15%
+Health,Royal Dental Centre,Edgware,Barnet,2000,37,"£539,894.20","96,000 GBP",443894.1972143948,4%
+Hospitality,Coventry Castle Comfort,Thames Ditton,Surrey,2014,260,"£639,833.99","360,000 GBP",279833.98645184934,19%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner Outlet,Kilburn,Derbyshire,2005,396,"£520,140.85","417,000 GBP",103140.84928482771,11%
+Health,Bridgeview Dental Studio,New Brighton,Wirral,2018,35,"£627,169.62","251,000 GBP",376169.6171667427,9%
+Hospitality,Posh Peak District Palace,Maltby,Rotherham,2007,161,"£623,767.09","483,000 GBP",140767.0899061486,17%
+IT Services,ByteBridge IT Solutions,Market Harborough,Leicestershire,2006,133,"£144,917.57","55,000 GBP",89917.56980773062,14%
+Constructions,Britannia Builders and Renovations Services Ltd.,Chatham,Medway,2003,83,"£454,429.62","40,000 GBP",414429.6233658679,7%
+Financial Services,London Legacy Advisors,Daventry,Northamptonshire,2014,93,"£263,290.41","143,000 GBP",120290.40635796264,11%
+Health,Pinnacle Private Healthcare,Bailleston,Glasgow City,2010,183,"£582,034.54","198,000 GBP",384034.5449815504,8%
+Constructions,Capital Contractors Construction and Repairs Ltd.,Buckingham,Buckinghamshire,2012,73,"£266,876.98","146,000 GBP",120876.97881506756,9%
+Hospitality,Oxford Opulent Oasis,Quedgeley,Gloucestershire,2011,474,"£125,475.96","102,000 GBP",23475.96293548122,14%
+Retail,Thameside Trinkets Store Outlet,Aldridge,Walsall,2004,106,"£756,838.56","347,000 GBP",409838.5561676696,10%
+Hospitality,Bristol Boutique Bliss,Westbury,Wiltshire,2005,120,"£681,924.75","454,000 GBP",227924.75222609937,7%
+IT Services,Quantum Quest Technologies,Dudley,Dudley,2016,135,"£485,493.78","94,000 GBP",391493.7805105001,18%
+Financial Services,Windsor Wealth Advisors,Rochester,Medway,2019,18,"£633,400.42","138,000 GBP",495400.41711879894,8%
+Constructions,Pinnacle Projects Construction and Renovations Ltd.,Wellingborough,Northamptonshire,2014,77,"£457,842.21","134,000 GBP",323842.20907930285,10%
+Financial Services,Bridge Bank Financial Services,Verwood,Dorset,2000,58,"£366,005.55","112,000 GBP",254005.5531146936,12%
+IT Services,CloudClarity Consultancy,Shephall,Hertfordshire,2006,160,"£662,821.75","177,000 GBP",485821.75116753206,14%
+IT Services,CyberLink Systems UK,Hackney,Hackney,2004,147,"£364,772.08","85,000 GBP",279772.07656251267,25%
+Financial Services,Thames Trust Advisory,Brownhills,Walsall,2001,33,"£140,618.94","84,000 GBP",56618.9436824061,12%
+Constructions,Royal Renovations and Repairs Construction and Renovations Ltd.,Cosham,Portsmouth,2017,58,"£494,763.90","181,000 GBP",313763.9016681351,7%
+Retail,Regency Retail Regalia Emporium Mall Outlet Store,Rugby,Warwickshire,2019,424,"£237,896.47","152,000 GBP",85896.4669634588,18%
+Retail,Elite Emporium Emporium Mall Outlet Store Corner Outlet,North Woolwich,Newham,2002,106,"£342,790.04","171,000 GBP",171790.03956262022,9%
+Health,Castle Dental Surgical Solutions,Nailsea,North Somerset,2009,154,"£553,691.07","141,000 GBP",412691.0719880834,5%
+Hospitality,Surrey Sweet Dreams,Cambridge,Cambridgeshire,2010,379,"£454,224.50","419,000 GBP",35224.50276883319,17%
+Financial Services,Regency Returns Financial Advisors,Clifton,York,2003,86,"£454,234.51","29,000 GBP",425234.5117321238,14%
+IT Services,NexusWave IT Solutions,Ormesby,Middlesbrough,2017,165,"£340,136.50","36,000 GBP",304136.50310598314,19%
+Health,Pinnacle Private Healthcare Centre,Hove,Brighton and Hove,2014,120,"£393,793.95","179,000 GBP",214793.95236819983,6%
+Hospitality,York Yesteryear Inn,Nelson,Caerphilly,2013,234,"£490,370.26","152,000 GBP",338370.26353226975,8%
+Hospitality,Scottish Splendor Suites,Molesey,Surrey,2003,297,"£523,109.53","156,000 GBP",367109.52781140804,6%
+Retail,Thameside Trinkets Store Outlet Mall,Hoyland Nether,Barnsley,2016,444,"£552,286.51","331,000 GBP",221286.50887869298,19%
+Retail,Thameside Trinkets Store Outlet Mall Emporium Corner,Penwortham,Lancashire,2017,120,"£518,743.36","134,000 GBP",384743.3575685136,18%
+Constructions,Thameside Trades Ltd.,Clifton,Nottingham,2013,16,"£354,534.91","68,000 GBP",286534.9129703827,11%
+IT Services,CodeCore UK,Long Ashton,North Somerset,2015,173,"£580,324.06","198,000 GBP",382324.05627146363,17%
+Hospitality,Windsor Whisk & Wonders,Sherborne Saint John,Hampshire,2014,265,"£324,829.24","233,000 GBP",91829.24469467252,15%
+Health,Pinnacle Private Surgical and Medical Wellness,Littlehampton,West Sussex,2020,65,"£436,266.62","140,000 GBP",296266.6160427034,7%
+Constructions,City Craftsmen Construction and Repairs Services,Greenhill,Kent,2014,96,"£219,816.48","110,000 GBP",109816.48191343993,11%
+Health,Thameside Healthcare Hub,Kidbrooke,Greenwich,2020,124,"£386,538.57","251,000 GBP",135538.56801241636,10%
+IT Services,ByteBridge IT Solutions,Holyhead,Isle of Anglesey,2004,132,"£531,735.76","71,000 GBP",460735.7649807818,30%
+Health,Royal Dental Studios,Letchworth,Hertfordshire,2014,120,"£367,247.47","177,000 GBP",190247.4667923525,9%
+Hospitality,Britannia Bites & Brews,Dronfield,Derbyshire,2006,480,"£466,062.11","51,000 GBP",415062.1109409258,14%
+IT Services,NetQuest IT Innovations,Kirkham,Lancashire,2002,58,"£198,078.41","181,000 GBP",17078.412044793367,13%
+Health,Regency Dental and Medical Studios,Sale,Trafford,2017,300,"£299,432.89","203,000 GBP",96432.88838909939,9%
+Health,Westminster Mental Health Wellness Centre,Bromsgrove,Worcestershire,2012,244,"£548,667.08","147,000 GBP",401667.0843004249,7%
+Financial Services,Regency Returns Investments,Stamford,Lincolnshire,2015,39,"£426,994.26","113,000 GBP",313994.2574989982,10%
+Constructions,Britannia Builders and Renovations Services,Slough,Slough,2020,25,"£356,110.20","154,000 GBP",202110.19586306065,8%
+Financial Services,Britannia Bank Consultants,Hounslow,Hounslow,2019,78,"£274,993.53","89,000 GBP",185993.52763732895,15%
+Health,Bridgeview Dental and Medical Surgical Hub,Davyhulme,Trafford,2005,295,"£247,277.82","230,000 GBP",17277.820974122733,2%
+Financial Services,Westminster Wealth Consultants,Caerfyrddin,Carmarthenshire,2001,46,"£439,832.09","140,000 GBP",299832.08786230534,3%
+Financial Services,Thameside Trust Financial,Brierfield,Lancashire,2001,73,"£124,245.09","103,000 GBP",21245.091289747506,10%
+Retail,Windsor Wonders Emporium Outlet,Burslem,Stoke-on-Trent,2014,119,"£179,885.63",NA,95885.62552584335,8%
+Constructions,Oxford Overhauls Construction Services Ltd.,Roby,Knowsley,2015,42,"£131,576.67","75,000 GBP",56576.66622893885,8%
+Constructions,Oxford Overhauls Construction Services,Timperley,Trafford,2012,72,"£316,413.98","49,000 GBP",267413.9776779339,15%
+Retail,London Luxe Marketplace Mall Outlet,Menai Bridge,Gwynedd,2010,403,"£684,635.44","476,000 GBP",208635.43898798525,9%
+Hospitality,Brighton Boutique Bliss,Hornsey,Haringey,2006,329,"£747,746.98","318,000 GBP",429746.97845289484,13%
+Hospitality,Oxford Opulent Oasis,Cheam,Sutton,2006,259,"£136,714.71","116,000 GBP",20714.713875204325,16%
+Constructions,Pinnacle Projects Construction and Renovations,Lees,Oldham,2019,40,"£274,422.43","139,000 GBP",135422.43130970746,10%
+Financial Services,UK United Financial Consultants,Royston,Barnsley,2020,98,"£601,874.65","135,000 GBP",466874.6490054764,12%
+Health,Pinnacle Private Wellness Centre,Bushbury,Wolverhampton,2013,94,"£318,173.56","162,000 GBP",156173.56372298673,4%
+Hospitality,Newcastle Noble Nights,Killingworth,North Tyneside,2018,91,"£293,337.58","259,000 GBP",34337.57798979059,6%
+Retail,Sovereign Showcase Outlet Store,Haslingden,Lancashire,2005,351,"£225,580.05","126,000 GBP",99580.0545765087,18%
+Hospitality,Scottish Splendor Suites,Shephall,Hertfordshire,2020,486,"£677,997.75","341,000 GBP",336997.75041779503,13%
+Retail,Crown Crafty Corner,Nairn,Highland,2012,60,"£599,195.01","356,000 GBP",243195.01002551988,13%
+Constructions,Elite Engineering and Building Solutions Ltd.,Wood Green,Haringey,2010,93,"£498,189.16","197,000 GBP",NA,12%
+Hospitality,Stratford Serenity Suites,Deysbrook,Liverpool,2000,256,"£698,782.78","434,000 GBP",264782.77617832646,10%
+IT Services,NetNest IT Innovations,Sale,Trafford,2006,74,"£108,066.65","48,000 GBP",60066.65169028565,25%
+Hospitality,Canterbury Castle Comforts,Bicester,Oxfordshire,2006,110,"£292,755.29","200,000 GBP",92755.2877436392,17%
+Hospitality,Peak District Pleasure Palace,Consett,Durham,2010,271,"£417,848.52","247,000 GBP",170848.51832827553,8%
+Financial Services,London Legacy Financial Partners,Royal Leamington Spa,Warwickshire,2020,81,"£457,826.97","143,000 GBP",314826.97018189356,NA
+Health,Royal Dental Wellness Centre,Dronfield,Derbyshire,2010,141,"£298,508.72","90,000 GBP",208508.7155806832,4%
+IT Services,NetNest IT Innovations,Coalville,Leicestershire,2004,182,"£184,969.50","150,000 GBP",34969.50334403664,20%
+Financial Services,Pinnacle Portfolio Management,Coulsdon,Croydon,2017,60,"£272,074.69","33,000 GBP",239074.68513352796,15%
+Health,Royal Surgery Solutions,Failsworth,Oldham,2006,193,"£706,145.47","210,000 GBP",496145.47013072297,9%
+IT Services,DataDelta Tech Services,Crewkerne,Somerset,2008,176,"£510,208.68","115,000 GBP",395208.6777985096,20%
+Constructions,Castle Construction Solutions Ltd.,Aberdeen,Aberdeen City,2010,92,"£561,315.64","83,000 GBP",478315.6416192651,14%
+Hospitality,Canterbury Castle Comforts,Penarth,"Vale of Glamorgan, The",2006,316,"£565,578.20","453,000 GBP",112578.19975726306,11%
+Constructions,Oxford Overhauls Construction,Leicester,NA,2006,35,"£624,958.62","133,000 GBP",491958.6238381453,11%
+Financial Services,Regency Returns Financial Advisors,Littleport,Cambridgeshire,2013,93,"£457,708.89","144,000 GBP",313708.89347279444,8%
+Retail,Britannia Boutique Outlet Mall Store Emporium,Bishop Auckland,Durham,2002,70,"£732,497.82","386,000 GBP",346497.81509302557,9%
+IT Services,Innovate Infinity Tech,Barri,"Vale of Glamorgan, The",2018,158,"£476,257.72","194,000 GBP",282257.71500961855,11%
+Health,Thameside Wellness Solutions,Stratford,Newham,2009,54,"£169,100.85","67,000 GBP",NA,8%
+Constructions,London Legacy Builders,Fulham,Hammersmith and Fulham,2000,30,"£556,112.97","68,000 GBP",488112.9660597071,13%
+Constructions,Pinnacle Projects Construction Ltd.,Rothwell,Leeds,2018,83,NA,NA,347325.1355672255,5%
+Hospitality,York Yesteryear Inn,Swinton,Salford,2000,491,"£455,241.15","75,000 GBP",380241.1466999911,13%
+Constructions,Britannia Builders and Renovations Services Ltd.,Braintree,Essex,2018,26,"£420,220.05","90,000 GBP",330220.0461900793,9%
+IT Services,CodeCrafters UK,Camborne,Cornwall,2008,172,"£525,984.06","82,000 GBP",443984.0551139787,21%
+Constructions,City Craftsmen Construction Services Ltd.,Dollis Hill,Brent,2014,61,"£316,219.31","54,000 GBP",262219.31053558365,15%
+Hospitality,Newcastle Noble Nest,Stocksbridge,Sheffield,2019,357,"£775,580.76","464,000 GBP",311580.76288877055,7%
+Retail,Thameside Trinkets Store Outlet Mall Emporium Corner Store,Blunsdon Saint Andrew,Swindon,2015,420,"£543,386.88","475,000 GBP",68386.87990559265,16%
+Financial Services,Elite Equity Solutions,Rainham,Medway,2018,61,"£87,707.32","63,000 GBP",24707.324856426567,10%
+IT Services,Innovate IT Integration,Arbroath,Angus,2000,184,"£544,869.12","181,000 GBP",363869.12195710465,26%
+Financial Services,Britannia Bank Services,Cosham,Portsmouth,2014,10,"£152,380.88","87,000 GBP",65380.87677676231,5%
+IT Services,CyberNet Systems UK,Devizes,Wiltshire,2002,33,"£545,702.54","46,000 GBP",499702.54491781816,24%
+Hospitality,Bristol Blissful Boutique,New Earswick,York,2009,454,"£572,190.97","407,000 GBP",165190.97266951576,10%
+Health,Castle Medical Surgical Solutions,Hadleigh,Essex,2009,122,"£423,225.59","268,000 GBP",155225.58676078916,9%
+Constructions,Riverside Renovations and Repairs Construction and Renovations,Wembley,Brent,2003,52,"£226,227.41","179,000 GBP",47227.41021309048,14%
+IT Services,Innovate Infinity Tech,Northolt,Ealing,2009,129,"£115,937.39","36,000 GBP",79937.3921751976,18%
+Financial Services,Bridge Bank Financial Advisors,Melton Mowbray,Leicestershire,2013,38,"£588,495.67","122,000 GBP",466495.6735027954,6%
+Retail,Thameside Trinkets Store Outlet Mall Emporium Corner Store Outlet,Failsworth,Oldham,2007,75,"£414,926.96","163,000 GBP",251926.9618508406,8%
+Hospitality,Thameside Tea Haven,Balham,Wandsworth,2011,353,"£822,495.30","366,000 GBP",456495.30235445127,7%
+Hospitality,Windsor Whisk & Wonders,Lowton,Wigan,2019,220,"£700,136.85","477,000 GBP",223136.85058616102,14%
+Retail,Castle Curiosities Corner Emporium Store,Upton,Wirral,2006,258,"£534,304.26","383,000 GBP",151304.2607693933,8%
+Hospitality,Exeter Exquisite Escapes,Wellington,Telford and Wrekin,2012,370,"£413,945.97","67,000 GBP",346945.9722773172,13%
+Financial Services,Financial Focus Securities,Prestatyn,Denbighshire,2015,11,"£555,435.80","119,000 GBP",436435.79999683425,8%
+IT Services,CipherSphere Cybernetics,Eckington,Derbyshire,2018,52,"£225,711.88","43,000 GBP",182711.88252139837,10%
+Health,Capital Surgical and Medical Excellence,Small Heath,Birmingham,2007,203,"£655,690.02","232,000 GBP",423690.0158645585,7%
+IT Services,ByteBeat IT Solutions,Plumstead,Greenwich,2006,112,"£393,183.26","175,000 GBP",218183.25763568282,26%
+Constructions,Elite Engineering and Building,Belgrave,Leicester,2011,25,"£592,287.67","151,000 GBP",441287.66611916944,14%
+Hospitality,Canterbury Castle Comforts,Yeovil,Somerset,2003,96,"£684,852.35","246,000 GBP",438852.34985733405,13%
+Health,Bridgeview Dental and Wellness,Hertford,Hertfordshire,2007,138,"£238,612.21","106,000 GBP",132612.20994172618,8%
+IT Services,Infiniti Integration Ltd.,Llantwit Fardre,Rhondda Cynon Taff,2000,180,"£411,943.76","91,000 GBP",320943.7645645812,21%
+Hospitality,Windsor Whisk & Wonders,Old Kilpatrick,West Dunbartonshire,2016,469,"£898,196.06","488,000 GBP",410196.05570239946,8%
+Hospitality,Bristol Blissful Boutique,Leicester,Leicester,2008,158,"£842,010.73","390,000 GBP",452010.7323047705,12%
+Retail,Capital Collection Emporium Store Outlet Mall Emporium Outlet Store,Nailsea,North Somerset,2008,275,"£416,743.51","406,000 GBP",10743.512609042227,8%
+Hospitality,Lakeside Luxury Lodge,Uxbridge,Hillingdon,2018,265,"£610,757.23","495,000 GBP",115757.231132593,19%
+Retail,Britannia Boutique Outlet Mall Store Emporium Corner Outlet,Ingatestone,Essex,2002,228,"£164,698.85","129,000 GBP",35698.84999655187,6%
+Financial Services,Capital Compass Financial,Menai Bridge,Gwynedd,2008,98,"£136,132.08","75,000 GBP",61132.079295348376,8%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner,Bexleyheath,Bexley,2002,331,NA,NA,169014.82796296477,18%
+IT Services,NexusNova IT Solutions,Wibsey,Bradford,2010,163,"£584,042.95","182,000 GBP",402042.94819384813,21%
+IT Services,SecureSphere Systems,Dronfield,Derbyshire,2018,103,"£466,457.72","37,000 GBP",429457.7199523337,18%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner Outlet,Ilford,Redbridge,2000,463,"£660,820.41","175,000 GBP",485820.41383953765,12%
+Financial Services,Westminster Wealth Consultants,Maidstone,Kent,2015,40,"£422,742.02","98,000 GBP",324742.01599368826,7%
+Health,Pinnacle Private Surgical and Wellness,Chaddesden,Derby,2000,55,"£501,869.76","119,000 GBP",382869.76218922064,8%
+Constructions,Windsor Works Construction and Repairs Ltd.,Codsall,Staffordshire,2007,30,"£575,163.40","93,000 GBP",482163.40076643974,7%
+Retail,Windsor Wonders Emporium Outlet Mall Store Corner Outlet,Kilwinning,North Ayrshire,2001,462,"£565,895.25","111,000 GBP",454895.2483921312,8%
+Financial Services,Financial Focus Financial,Sandridge,Hertfordshire,2018,53,"£131,744.23","92,000 GBP",NA,4%
+IT Services,CloudClarity Consultancy,Pendlebury,Salford,2002,30,"£115,142.20","94,000 GBP",21142.197579611093,21%
+Financial Services,Prime Pounds Financial Group,Upton,Wirral,2006,19,"£289,424.66","66,000 GBP",223424.65926893055,6%
+Health,Regent's Park Medical Group,Kingsthorpe,Northamptonshire,2008,174,"£315,898.63","72,000 GBP",243898.62743206322,6%
+IT Services,CipherScape Cybersecurity,Blackpool,Blackpool,2009,175,"£372,596.25","146,000 GBP",226596.24612424523,24%
+Retail,Thameside Trinkets Store,Johnstone,Renfrewshire,2019,182,"£846,178.04","431,000 GBP",415178.04285744205,17%
+Health,Crown Dental Group,High Wycombe,Buckinghamshire,2014,215,"£672,776.72","228,000 GBP",444776.7245094292,8%
+Financial Services,London Legacy Advisors,Long Ditton,Surrey,2006,94,"£389,339.93","114,000 GBP",275339.9294964038,14%
+IT Services,Quantum Quasar Technologies,Worcester,Worcestershire,2007,106,"£169,412.42","90,000 GBP",79412.42054570466,24%
+Hospitality,Brighton Boutique Bliss,Westbury,Wiltshire,2019,129,"£529,143.63","370,000 GBP",159143.62556301057,9%
+Hospitality,Cornwall Coastal Comforts,Erdington,Birmingham,2003,429,"£449,145.31","222,000 GBP",227145.30859608203,12%
+Hospitality,Lakeside Luxury Lodge,Cleckheaton,Kirklees,2017,423,"£405,872.99","116,000 GBP",289872.99042986706,13%
+Constructions,Elite Engineering and Building Solutions,Didcot,Oxfordshire,2016,19,"£214,315.29","54,000 GBP",160315.29099680483,12%
+Financial Services,Sovereign Securities Advisors,Colchester,Essex,2008,74,"£592,602.31","107,000 GBP",485602.3096991703,9%
+Financial Services,Sovereign Securities Advisors,Bradford,Bradford,2008,33,"£421,536.19","28,000 GBP",393536.188735161,13%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner Outlet,Oakham,Rutland,2007,69,"£484,557.45","184,000 GBP",300557.45356250554,18%
+IT Services,Innovate Insight Tech,Stainton,Middlesbrough,2014,43,"£495,312.22","60,000 GBP",435312.2236090712,20%
+Hospitality,Yorkshire Yarn Yurts,Strood,Medway,2011,351,"£607,446.89","196,000 GBP",411446.88508939,13%
+Retail,London Luxe Emporium,Walthamstow,Waltham Forest,2019,228,"£555,527.54","320,000 GBP",235527.53580268472,9%
+IT Services,NexusNet IT Solutions,Hazel Grove,Stockport,2017,166,"£265,238.29","72,000 GBP",193238.29132830724,28%
+IT Services,NexusWave IT Solutions,Lye,Dudley,2004,155,"£539,396.96","107,000 GBP",432396.9638091512,13%
+Financial Services,Financial Focus Consultants,Bournville,Birmingham,2004,21,"£144,928.02","113,000 GBP",31928.02143516019,8%
+Constructions,London Legacy Building Solutions,Denton,Tameside,2012,94,"£427,906.02","197,000 GBP",230906.0243703425,15%
+IT Services,Infiniti Integration Ltd.,Bletchley,Milton Keynes,2019,108,"£526,215.33","182,000 GBP",344215.3317364864,17%
+Hospitality,Newcastle Noble Nest,Bangor,Ards and North Down,2007,246,"£905,570.46","500,000 GBP",405570.45619003475,6%
+Hospitality,Coventry Castle Comfort,Blundellsands,Sefton,2007,371,"£800,349.55","339,000 GBP",461349.5533517562,18%
+Financial Services,Capital Crest Financial Services,Rosyth,Fife,2019,79,"£371,273.46","22,000 GBP",349273.4556598589,8%
+IT Services,CipherCraft Cybernetics,Uddingston,South Lanarkshire,2004,157,"£265,053.25","134,000 GBP",131053.24898147956,27%
+Constructions,Oxford Overhauls Construction Services Ltd.,Hythe,Kent,2013,89,"£364,909.30","158,000 GBP",206909.29856617004,6%
+Hospitality,Cornwall Coastal Comforts,Highbury,Islington,2001,316,"£638,157.34","169,000 GBP",469157.3397722095,17%
+Constructions,Thameside Trades Construction and Renovations Solutions,Blackpool,Blackpool,2017,40,"£585,123.24","149,000 GBP",436123.23637120426,12%
+Hospitality,Manchester Metropolitan Manor,Earlestown,St. Helens,2011,172,"£400,792.65","242,000 GBP",158792.65283234417,8%
+IT Services,Innovate Insight Tech,Larkhall,South Lanarkshire,2005,25,"£603,906.36","181,000 GBP",422906.3627659343,19%
+Health,Castle Dental Excellence,Hythe,Hampshire,2007,156,"£737,002.18","274,000 GBP",463002.17541633174,3%
+Hospitality,Lakeside Luxury Lodge,Hessle,East Riding of Yorkshire,2016,318,"£532,334.92","111,000 GBP",421334.9162368104,9%
+Constructions,Bridgeview Building and Repairs Ltd.,Altrincham,Trafford,2014,29,"£82,740.08","51,000 GBP",31740.084982011467,14%
+Financial Services,London Legacy Advisors,Paignton,Devon,2001,96,"£477,580.68","32,000 GBP",445580.6846404448,5%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner Outlet,Ealing,Ealing,2004,162,"£588,500.86","265,000 GBP",323500.86198421195,19%
+Constructions,City Craftsmen Construction and Repairs Services,Batley,Kirklees,2009,97,"£528,659.68","97,000 GBP",431659.6772707999,13%
+Hospitality,Coventry Castle Comfort,Huntington,Staffordshire,2013,373,"£713,076.30","328,000 GBP",385076.29508152604,11%
+Constructions,Elite Engineering and Building Solutions Ltd.,Carshalton,Sutton,2012,91,"£585,264.58","127,000 GBP",458264.5778218284,9%
+Hospitality,York Yesteryear Inn,Hove,Brighton and Hove,2020,59,"£126,847.54","107,000 GBP",19847.536759916693,8%
+IT Services,ByteBeat IT Solutions,Carshalton,Sutton,2010,174,"£687,286.77","197,000 GBP",490286.76784364507,22%
+IT Services,Cybernetic Cloud Consultants,Tottington,Bury,2015,120,"£234,478.99","50,000 GBP",184478.99090591818,29%
+Health,Westminster Mental Health Hub,Dronfield,Derbyshire,2019,93,"£346,521.73","68,000 GBP",278521.7295354232,6%
+IT Services,Innovate Infinity Tech,Netherton,Dudley,2020,105,"£510,911.49","108,000 GBP",402911.49218566716,28%
+Health,City Dental & Medical Studios,Billingham,Stockton-on-Tees,2011,121,"£697,670.56","247,000 GBP",450670.5565843731,4%
+Retail,Royal Retail Respite Emporium Mall Store Corner Outlet,Whickham,Gateshead,2000,471,"£458,280.68","233,000 GBP",225280.68114072084,10%
+Health,Crown Dental Group,Ingatestone,Essex,2013,112,"£593,191.22","233,000 GBP",360191.21578661725,5%
+Hospitality,Manchester Metropolitan Manor,Rainham,Medway,2009,258,"£310,108.90","70,000 GBP",240108.89978613704,13%
+Constructions,Thameside Construction Solutions,Mountain Ash,Rhondda Cynon Taff,2010,88,"£144,329.24","114,000 GBP",30329.24433471635,5%
+Constructions,Capital Contractors Construction Solutions,Fulham,Hammersmith and Fulham,2011,97,"£563,561.34","109,000 GBP",454561.34342122823,11%
+Retail,Sovereign Showcase Outlet Store Mall Emporium,East Kilbride,South Lanarkshire,2011,387,"£708,006.65","279,000 GBP",429006.64864340797,20%
+Retail,Capital Collection Emporium Store,Shipley,Bradford,2008,183,"£586,573.18","250,000 GBP",336573.1757041067,19%
+Financial Services,Royal Reserves Financial,Sutton in Ashfield,Nottinghamshire,2006,41,"£99,599.36","76,000 GBP",23599.36321619898,4%
+Health,London Lifeline Surgical Studios,Rochester,Medway,2017,204,"£488,084.18","85,000 GBP",403084.1774865985,7%
+Constructions,Sovereign Structures Construction Solutions,Snaresbrook,Redbridge,2005,53,"£349,064.06","65,000 GBP",284064.06042864546,8%
+IT Services,CodeCrafters UK,Chester,Cheshire West and Chester,2000,194,"£412,964.91","132,000 GBP",280964.91095609963,11%
+IT Services,CipherCraft Cybernetics,Pinner,Harrow,2001,58,"£521,460.83","183,000 GBP",338460.8268318698,12%
+Hospitality,Cornwall Coastal Comforts,Alva,Clackmannanshire,2004,282,"£656,602.48","429,000 GBP",227602.47751371935,5%
+Hospitality,Cambridge Castle Comfort,Shiremoor,North Tyneside,2020,370,"£369,374.31","69,000 GBP",300374.314696528,16%
+Hospitality,Scottish Splendid Suites,Gloucester,Gloucestershire,2002,51,"£450,739.25","347,000 GBP",103739.25313586369,9%
+Financial Services,Regal Returns Investments,Little Hulton,Salford,2015,49,"£382,072.87","139,000 GBP",243072.87177536637,13%
+IT Services,Innovate IT Integration,Palmers Green,Enfield,2000,106,"£239,229.32","102,000 GBP",137229.322521016,17%
+Health,Royal Dental and Surgical Wellness,Kilwinning,North Ayrshire,2008,191,"£427,808.69","133,000 GBP",294808.6876911111,4%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner Outlet,Sedgley,Dudley,2003,56,"£293,018.95","212,000 GBP",81018.95236875862,8%
+IT Services,Apex Algorithmic Solutions,Fleet,Hampshire,2007,40,"£173,202.27","64,000 GBP",109202.26731337607,13%
+Hospitality,Oxford Opulent Oasis,Clackmannan,Clackmannanshire,2013,113,"£540,154.24","79,000 GBP",461154.23729410395,14%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner Outlet,Southbourne,NA,2010,395,"£392,189.44","250,000 GBP",142189.43976564333,17%
+Financial Services,Crown City Capital Financial,Crewkerne,Somerset,2012,73,"£360,579.68","67,000 GBP",293579.67698946595,8%
+IT Services,Quantum Quantum Innovations,Hoyland Nether,Barnsley,2012,74,"£420,588.92","159,000 GBP",261588.9160009101,28%
+Financial Services,Pinnacle Portfolio Management,Streatham,Lambeth,2001,19,"£133,157.61","92,000 GBP",41157.60621847585,12%
+Retail,Riverside Retail Revival Mall,Kenton,Brent,2006,398,"£404,126.02","104,000 GBP",300126.0159444064,17%
+IT Services,UK Data Dynamics,Deanshanger,Northamptonshire,2002,160,"£413,046.73","46,000 GBP",367046.725533437,21%
+Constructions,Elite Engineering and Building Solutions Ltd.,Daventry,Northamptonshire,2010,35,"£401,188.02","97,000 GBP",304188.0205809139,14%
+Hospitality,Canterbury Castle Comforts,Cheadle Hulme,Stockport,2000,270,"£604,663.94","364,000 GBP",240663.93984714523,9%
+Hospitality,Manchester Metropolitan Manor,Fazakerley,Liverpool,2018,405,"£567,180.08","94,000 GBP",473180.0791947171,19%
+Hospitality,Yorkshire Yarn Yurts,Wadsley,Sheffield,2004,330,"£982,764.51","499,000 GBP",483764.50820825994,11%
+Retail,Riverside Retail Revival Mall Emporium Outlet Store Corner,Keynsham,Bath and North East Somerset,2006,223,"£551,017.53","429,000 GBP",122017.53169298172,17%
+Hospitality,Bath Blissful Bed & Breakfast,Whitby,North Yorkshire,2011,161,"£610,368.02","275,000 GBP",335368.0172888562,17%
+IT Services,ByteBridge IT Solutions,Hilsea,Portsmouth,2011,184,"£441,537.48","111,000 GBP",330537.47768048197,27%
+Retail,Pinnacle Plaza,Sandridge,Hertfordshire,2011,404,"£175,396.23","154,000 GBP",21396.229546517134,20%
+Financial Services,Pinnacle Portfolio Financial Services,Wallington,Sutton,2012,20,"£192,137.80","94,000 GBP",98137.79949909076,7%
+Hospitality,Coventry Castle Comfort,Walkden,Salford,2008,467,"£685,064.08","385,000 GBP",300064.0842644498,17%
+Retail,Windsor Wonders Emporium Outlet Mall Store Corner Outlet,Kidbrooke,Greenwich,2017,103,"£669,957.70","415,000 GBP",254957.70018547773,16%
+Financial Services,Thameside Trust Management,Southborough,Kent,2004,61,"£96,972.80","47,000 GBP",49972.80220501125,8%
+Retail,Britannia Boutique Outlet Mall,Eton,Wandsworth,2010,384,"£236,175.81","202,000 GBP",34175.81013171002,9%
+Financial Services,Prime Pounds Financial Partners,Wickersley,Rotherham,2000,88,"£327,145.73","143,000 GBP",184145.73337882757,5%
+IT Services,SecureSphere Systems,Worcester Park,Sutton,2004,63,"£383,472.10","174,000 GBP",209472.0952026546,27%
+Retail,Bridgeview Bazaar Mall Outlet Emporium Store Corner Outlet,Stalybridge,Tameside,2013,486,"£625,021.21","329,000 GBP",296021.21418807656,13%
+Financial Services,Windsor Wealth Investments,Ovenden,Calderdale,2010,10,"£104,682.78","62,000 GBP",42682.77574563399,10%
+Retail,Crown Crafty Corner Emporium Outlet Mall Store Corner Outlet,Arbroath,Angus,2011,70,"£692,013.74","440,000 GBP",252013.7421390973,9%
+IT Services,CloudCore Consultancy,Castle Bromwich,Birmingham,2005,68,"£583,979.61","118,000 GBP",465979.61343824863,25%
+Retail,Crown Crafty Corner Emporium Outlet Mall Store Corner,Laindon,Essex,2018,183,"£216,968.65","174,000 GBP",42968.65441836417,7%
+Financial Services,Sterling Solutions Ltd.,Prestatyn,Denbighshire,2005,44,"£65,191.50","24,000 GBP",41191.498504485935,8%
+IT Services,Innovate Insight Tech,Cudworth,Barnsley,2015,79,"£334,519.67","33,000 GBP",301519.6677856147,30%
+Financial Services,Regency Returns Financial Advisors,Deanshanger,Northamptonshire,2019,56,"£280,755.29","144,000 GBP",136755.29359607026,14%
+IT Services,CyberLink Systems UK,Yate,South Gloucestershire,2018,181,"£356,047.45","75,000 GBP",281047.448690515,27%
+IT Services,EliteElements IT Services,Connahs Quay,Flintshire,2014,69,"£394,221.80","32,000 GBP",362221.7969526537,12%
+Retail,City Chic Retail Outlet Store,Kirkstall,Leeds,2012,130,"£828,975.13","394,000 GBP",434975.1262553036,17%
+IT Services,Infiniti Integration Ltd.,Ferndale,Rhondda Cynon Taff,2008,76,"£304,544.86","75,000 GBP",229544.85549824312,11%
+Constructions,Windsor Works Construction,Salford,Salford,2009,78,"£348,576.02","61,000 GBP",287576.015740633,9%
+IT Services,Innovate Insight Tech,Uxbridge,Hillingdon,2016,131,"£178,316.70","33,000 GBP",145316.69719843194,16%
+Retail,Windsor Wonders Emporium Outlet Mall Store Corner Outlet,Broughton Astley,Leicestershire,2002,385,"£224,945.74","114,000 GBP",110945.74108952656,12%
+Retail,Crown Crafty Corner Emporium Outlet Mall Store Corner Outlet,Redhill,Surrey,2017,481,"£319,961.08","139,000 GBP",180961.07568824664,7%
+Financial Services,Regency Returns Financial,Raynes Park,Merton,2020,31,"£430,884.49","123,000 GBP",307884.486655239,10%
+Financial Services,UK United Financial Services,Stalybridge,Tameside,2004,34,"£538,250.42","100,000 GBP",438250.42117387056,10%
+Constructions,Capital Contractors Construction and Repairs Ltd.,Duntocher,West Dunbartonshire,2020,41,"£249,050.42","147,000 GBP",102050.42293295264,6%
+Health,Sovereign Medical Surgical and Wellness Studios,Biddulph,Staffordshire,2000,112,"£150,914.48","65,000 GBP",85914.48004823178,9%
+Constructions,Elite Engineering and Building Solutions Ltd.,Oakham,Rutland,2016,92,"£153,293.90","97,000 GBP",56293.903957121074,14%
+Health,Pinnacle Private Surgical and Medical Wellness,Clayton,Bradford,2003,167,"£184,390.81","63,000 GBP",121390.80631081015,8%
+Constructions,Pinnacle Projects Construction and Renovations,Harrow,Harrow,2004,11,"£565,934.71","115,000 GBP",450934.71160624176,10%
+IT Services,CloudCore Consultancy,Tonypandy,Rhondda Cynon Taff,2004,176,"£153,919.19","50,000 GBP",103919.19448506087,29%
+Constructions,Royal Renovations and Repairs Construction and Renovations Ltd.,Cove,Hampshire,2020,95,"£497,400.62","167,000 GBP",330400.6228898652,7%
+Health,London Lifeline Surgical and Medical Wellness Centre,Raynes Park,Merton,2000,68,"£279,809.52","249,000 GBP",30809.518496971577,6%
+Hospitality,Coventry Charm House,Coventry,Coventry,2019,390,"£907,744.76","471,000 GBP",436744.76166721433,17%
+IT Services,Infiniti Innovate Ltd.,Broughty Ferry,Dundee City,2017,81,"£132,590.57","53,000 GBP",79590.56525258347,18%
+Retail,London Luxe Marketplace Mall Outlet Emporium Store Outlet Corner,Histon,Cambridgeshire,2001,397,"£532,426.33","130,000 GBP",402426.3325892389,15%
+IT Services,NetNest IT Innovations,East Kilbride,South Lanarkshire,2001,70,"£388,846.58","114,000 GBP",274846.57525783405,27%
+IT Services,CipherCraft Cybernetics,Dukinfield,Tameside,2004,183,"£314,477.85","108,000 GBP",206477.84645901993,10%
+Health,Capital Surgical Studios,March,Cambridgeshire,2009,240,"£693,580.99","298,000 GBP",395580.9885659255,9%
+Hospitality,Bath Boutique Beds,Highbury,Islington,2001,55,"£625,303.40","166,000 GBP",459303.3971404657,18%
+IT Services,CloudCore Consultancy,Harefield,Hillingdon,2015,57,"£420,152.46","187,000 GBP",233152.46353158727,20%
+Financial Services,Westminster Wealth Partners,Brierfield,Lancashire,2002,29,"£252,628.75","34,000 GBP",218628.7473514676,7%
+Financial Services,Elite Equity Management,Wrecsam,Wrexham,2007,27,"£282,578.14","123,000 GBP",159578.1355444342,13%
+Constructions,London Legacy Building and Renovations Ltd.,Cottingham,"Kingston upon Hull, City of",2020,50,"£257,112.78","111,000 GBP",146112.78099007905,5%
+Constructions,Regency Rebuilds Construction and Repairs Ltd.,New Bilton,Warwickshire,2011,87,"£330,893.42","113,000 GBP",217893.4237943031,11%
+Health,Castle Medical Surgical Solutions,Stretford,Trafford,2011,266,"£269,182.43","200,000 GBP",69182.4265755713,4%
+Constructions,Elite Engineering and Building Solutions,Wickford,Essex,2018,99,"£317,289.90","97,000 GBP",220289.89502461627,11%
+IT Services,Quantum Quotient Innovations,West Drayton,Hillingdon,2013,160,"£170,983.27","133,000 GBP",37983.270664699376,23%
+Retail,Crown Crafty Corner Emporium Outlet Mall Store Corner Outlet,Alcester,Warwickshire,2017,75,"£396,313.85","194,000 GBP",202313.85111110285,17%
+IT Services,ByteBeat IT Solutions,Shirley,Croydon,2003,91,"£165,911.84","94,000 GBP",71911.84455994517,27%
+Health,Windsor Women's Health Centre,Beddau,Rhondda Cynon Taff,2020,45,"£772,660.11","278,000 GBP",494660.11001262814,4%
+IT Services,Innovate Insight Tech,Kenton,Brent,2002,144,"£318,919.91","58,000 GBP",260919.91430614144,27%
+IT Services,NetNest IT Innovations,Longbridge,Birmingham,2008,119,"£135,413.21","37,000 GBP",98413.20886276662,24%
+Constructions,Westminster Works Construction Solutions,Farnworth,Bolton,2008,44,"£255,231.80","144,000 GBP",111231.79716756567,9%
+Constructions,Westminster Works Construction,Stoke Gifford,South Gloucestershire,2006,65,"£280,758.88","55,000 GBP",225758.87914747,14%
+Retail,Windsor Wonders Emporium Outlet Mall Store Corner Outlet,Lydney,Gloucestershire,2006,454,"£601,275.99","368,000 GBP",233275.98987845704,12%
+IT Services,Quantum Quasar Technologies,Bath,Bath and North East Somerset,2020,112,"£298,229.32","194,000 GBP",104229.3173330836,19%
+Financial Services,Crown City Capital Consultants,Merthyr Tudful,Merthyr Tydfil,2005,59,"£350,922.83","115,000 GBP",235922.83498961478,13%
+Hospitality,Edinburgh Enchantment Inn,Tyldesley,Wigan,2001,429,"£525,764.86","61,000 GBP",464764.8608754389,17%
+Retail,Britannia Boutique Outlet Mall Store Emporium Corner Outlet,Deal,Kent,2010,426,"£873,307.35","496,000 GBP",377307.354491204,17%
+Health,Crown Dental and Wellness Centre,Stretford,Trafford,2003,138,"£730,242.56","286,000 GBP",444242.55586927757,8%
+Health,Riverside Wellness Hub,Horwich,Bolton,2010,194,"£301,585.45","100,000 GBP",201585.4509244673,6%
+Constructions,Riverside Renovations and Repairs Ltd.,Norwich,Norfolk,2017,31,"£369,258.40","124,000 GBP",245258.3998790942,11%
+Health,Royal Dental Surgical Centre,Colwyn Bay,Conwy,2011,207,"£301,922.15","230,000 GBP",71922.1457047388,2%
+IT Services,Innovate Infinity Tech,Ferndale,Rhondda Cynon Taff,2018,66,"£380,494.77","111,000 GBP",269494.7675126605,13%
+IT Services,Elite Echo IT Services,Childwall,Liverpool,2005,117,"£264,591.42","168,000 GBP",96591.4186858572,15%
+Hospitality,Thameside Tranquility,Harleston,Norfolk,2013,196,"£508,133.70","299,000 GBP",209133.70296126232,7%
+Financial Services,Crown City Capital Advisors,Maltby,Rotherham,2001,44,"£602,942.27","139,000 GBP",463942.27033481,NA
+Retail,Regency Retail Regalia Emporium Mall Outlet Store Corner Outlet,Whetstone,Leicestershire,2005,74,"£729,023.55","236,000 GBP",493023.54626590386,19%

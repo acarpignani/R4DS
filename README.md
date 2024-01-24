@@ -40,3 +40,7 @@ I have also started writing a notebook for the course, where I aim to write down
 [Notebook](https://acarpignani.github.io/notebook/)
 
 And hey! The notebook is fully written with R!
+
+### DATA SETS
+
+The folder "datasets" contains a link to the data sets that we are going to use in the course.
