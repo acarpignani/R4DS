@@ -18,7 +18,7 @@ my_var
 #
 # weight should be in kg and height in metres.
 
-# Example of a hypotetical person:
+# Example of a hypothetical person:
 my_weight <- 92.5
 my_height <- 1.75
 
