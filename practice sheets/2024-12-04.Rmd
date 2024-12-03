@@ -1,0 +1,31 @@
+---
+title: "Practicing with data sets"
+author: "Andrea Carpignani"
+date: "2024-12-03"
+output: html_document
+---
+
+# Practice questions, 4th December 2024
+
+Today we wish to study the `iris` data set. The `iris` data set is one of R built-in data sets. Before you start studying the `iris` data set, you should load the `tidyverse`, using the command
+
+```         
+library(tidyverse)
+```
+
+Once you have loaded the tidyverse, transform the `iris` data set into a tibble by typing
+
+```         
+iris <- as_tibble(iris)
+```
+
+Then use the functions `glimpse()` and `summary()` to have an initial look at the data set.
+
+**Question.** How many species of iris are there in the data set?
+
+Now use the knowledge you have previously acquired with R to respond to the following questions:
+
+1.  Are the species balanced in the data set? Show a suitable diagram that responds to the question.
+2.  Draw a box-plots of Species against petal and sepal length, and formulate a hypothesis regarding their relationship.
+3.  Draw a scatter graph of the sepal length against the petal length. Can you spot any *cluster* present? How many clusters can you see?
+4.  To investigate the number of clusters you have found, add a suitable colour aesthetics to the map.
